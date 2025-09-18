@@ -26,19 +26,20 @@ O site possui seções destacadas que mostram funcionalidades do Discord, um **h
 ---
 
 ## Estrutura de Pastas
+
+```text
 discord-clone/
-│
-├── discord.html # Página principal
-├── discord.css # Arquivo de estilos
-├── img/ # Imagens utilizadas no projeto
-│ ├── Header Background.png
-│ ├── Header.png
-│ ├── Section Image1.png
-│ ├── Section Image2.png
-│ ├── Section Image3.png
-│ ├── Section Image4.png
-│ └── Discord-footer.png
-└── README.md # Este arquivo
+├── discord.html        # Página principal
+├── discord.css         # Arquivo de estilos
+├── img/                # Imagens utilizadas no projeto
+│   ├── Header Background.png
+│   ├── Header.png
+│   ├── Section Image1.png
+│   ├── Section Image2.png
+│   ├── Section Image3.png
+│   ├── Section Image4.png
+│   └── Discord-footer.png
+└── README.md           # Este arquivo
 
 ---
 
