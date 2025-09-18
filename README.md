@@ -49,8 +49,6 @@ discord-clone/
 git clone git@github.com:Islania-Silva/Pagina-Discord-Responsiva.git
 Navegue até a pasta do projeto:
 
-bash
-Copiar código
 cd discord-clone
 Abra o arquivo discord.html no seu navegador preferido.
 
